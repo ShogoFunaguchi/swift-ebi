@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0E5AC68DBF14D6C8A0F0EB5D7B69E133714AF01C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0E5AC68DBF14D6C8A0F0EB5D7B69E133714AF01C" : 9223372036854775807,
+    "605A2A053AA3988FF06CFE1B704AF7301B8625D2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "60507DA0-8872-4BDD-88BD-5882AB47250B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0E5AC68DBF14D6C8A0F0EB5D7B69E133714AF01C" : "ebi\/",
+    "605A2A053AA3988FF06CFE1B704AF7301B8625D2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ebi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ebi\/ebi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShogoFunaguchi\/swift-ebi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E5AC68DBF14D6C8A0F0EB5D7B69E133714AF01C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShogoFunaguchi\/learn-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "605A2A053AA3988FF06CFE1B704AF7301B8625D2"
+    }
+  ]
+}
